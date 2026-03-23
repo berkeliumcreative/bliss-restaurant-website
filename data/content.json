@@ -1,47 +1,108 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Bliss Restaurant",
+  "tagline": "Mediterranean Flavors in Glendale",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Where Every Bite is Bliss",
+    "subheading": "Mediterranean and Armenian cuisine crafted with passion — 97 five-star reviews on Glendale Ave. Fresh ingredients, bold flavors, and a warm dining experience.",
+    "ctaText": "Call to Reserve",
+    "ctaLink": "tel:8185000008",
+    "backgroundImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepTuKVMnLUtRkeagIM4KKkSQbE3LmgQuPWoQAfeME7DM4sF3J2e454hhPMfinLSgGi3tL7-0RYThKm-4hVCJYFp4B95qW9FDCUG-025fBef5_-4O5aGjcEjWVmTmHv2_KcLM3t3=w408-h272-k-no"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "A Taste of the Mediterranean",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Bliss Restaurant brings the vibrant flavors of the Mediterranean and Armenia to South Glendale Ave. Every dish is prepared with fresh, quality ingredients and the kind of culinary care that turns a meal into an experience.",
+      "With 97 reviews and a 4.6-star rating, we've become a neighborhood favorite for lunch and dinner. From perfectly grilled kebabs to fresh salads and house-made dips, our menu celebrates the best of Mediterranean cuisine.",
+      "Open Tuesday through Sunday, 10 AM to 7 PM. Closed Mondays. Dine in, take out, or call ahead."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
-  ],
-  "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
-    "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
+    {
+      "title": "Grilled Kebabs",
+      "description": "Premium lamb, chicken, beef, and koobideh kebabs — marinated in-house and grilled over open flame.",
+      "icon": "Flame"
     },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    {
+      "title": "Fresh Meze & Salads",
+      "description": "Hummus, baba ganoush, tabbouleh, fattoush, and seasonal salads made fresh daily.",
+      "icon": "Salad"
+    },
+    {
+      "title": "Family Platters",
+      "description": "Generous combo platters and family-style servings perfect for sharing. Feed the table without breaking the bank.",
+      "icon": "Users"
+    },
+    {
+      "title": "Wraps & Sandwiches",
+      "description": "Shawarma wraps, falafel pitas, and loaded sandwiches for a quick, flavorful lunch on the go.",
+      "icon": "Sandwich"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Anna K.",
+      "text": "Best kebabs in Glendale. The chicken kebab is so juicy and flavorful. We eat here at least once a week.",
+      "rating": 5
+    },
+    {
+      "name": "Michael S.",
+      "text": "Bliss is my go-to for Mediterranean food. Everything is fresh, portions are generous, and the staff is wonderful.",
+      "rating": 5
+    },
+    {
+      "name": "Diana M.",
+      "text": "The hummus and baba ganoush are to die for. You can taste the quality in every bite. Love this place.",
+      "rating": 5
+    },
+    {
+      "name": "Robert H.",
+      "text": "Great food at fair prices. The family platter is incredible value — enough to feed four people easily.",
+      "rating": 5
+    },
+    {
+      "name": "Liana G.",
+      "text": "A hidden gem on Glendale Ave. Authentic flavors, warm atmosphere, and they treat you like family.",
+      "rating": 5
+    }
+  ],
+  "gallery": {
+    "heading": "From Our Kitchen",
+    "images": [
+      {
+        "src": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepTuKVMnLUtRkeagIM4KKkSQbE3LmgQuPWoQAfeME7DM4sF3J2e454hhPMfinLSgGi3tL7-0RYThKm-4hVCJYFp4B95qW9FDCUG-025fBef5_-4O5aGjcEjWVmTmHv2_KcLM3t3=w408-h272-k-no",
+        "alt": "Bliss Restaurant food"
+      }
+    ]
+  },
+  "contact": {
+    "address": "1240 S Glendale Ave, Glendale, CA 91205",
+    "phone": "(818) 500-0008",
+    "email": "info@blissrestaurant.com",
+    "hours": {
+      "Monday": "Closed",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM"
+    },
+    "mapEmbedQuery": "Bliss Restaurant 1240 S Glendale Ave Glendale CA 91205"
   },
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Bliss Restaurant | Mediterranean & Armenian Cuisine in Glendale CA",
+    "description": "Fresh kebabs, meze, salads, and Mediterranean flavors on Glendale Ave. 97 reviews, 4.6 stars. Open Tue-Sun 10 AM to 7 PM.",
+    "keywords": [
+      "Mediterranean restaurant Glendale",
+      "Armenian food Glendale",
+      "kebabs Glendale CA",
+      "Bliss Restaurant",
+      "Mediterranean near me"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#faf8f5",
+    "accentColor": "#b45309",
+    "fontFamily": "classic"
   }
 }
